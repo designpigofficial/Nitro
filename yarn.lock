@@ -5509,7 +5509,7 @@ url-parse-lax@^3.0.0:
   dependencies:
     prepend-http "^2.0.0"
 
-use-auth0@0.5.1:
+use-auth0@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/use-auth0/-/use-auth0-0.5.1.tgz#629214aaa699a395a7cd0f536c414c74a2585e7d"
   integrity sha512-p29UBhGolFrE0SIVC37e7k0ithgTybr5J2T7FKk7S3UuViM4t/rqyAeO14vZUCuQkAf33+w/Bf2qnKt5p01htg==
