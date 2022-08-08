@@ -50,7 +50,7 @@ const Index: React.FC = () => {
           <RocketMan />
         </div>
         <Head>
-          <title>Nitro</title>
+          <title>Roo Bar Lounge</title>
         </Head>
         <div className={classes.strip}>
           <Typography variant="h3" gutterBottom>

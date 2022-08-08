@@ -8,13 +8,13 @@ const theme = createMuiTheme({
   drawerWidth: 240,
   palette: {
     primary: {
-      main: "#2d2d2d",
-      text: "#fff",
+      main: "#070600",
+      text: "#f7f7ff",
     },
     secondary: {
-      light: green[300],
-      main: green[500],
-      dark: green[700],
+      light: "#74fbd7",
+      main: "#06d6a0",
+      dark: "#023c2c",
     },
     typography: {
       useNextVariants: true,
